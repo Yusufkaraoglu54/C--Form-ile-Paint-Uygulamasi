@@ -1,0 +1,11 @@
+C:\Users\YusufK\Desktop\C# Başvuru\CASE3\CASE3\bin\Debug\CASE3.exe.config
+C:\Users\YusufK\Desktop\C# Başvuru\CASE3\CASE3\bin\Debug\CASE3.exe
+C:\Users\YusufK\Desktop\C# Başvuru\CASE3\CASE3\bin\Debug\CASE3.pdb
+C:\Users\YusufK\Desktop\C# Başvuru\CASE3\CASE3\obj\Debug\CASE3.csproj.AssemblyReference.cache
+C:\Users\YusufK\Desktop\C# Başvuru\CASE3\CASE3\obj\Debug\CASE3.csproj.SuggestedBindingRedirects.cache
+C:\Users\YusufK\Desktop\C# Başvuru\CASE3\CASE3\obj\Debug\CASE3.Form1.resources
+C:\Users\YusufK\Desktop\C# Başvuru\CASE3\CASE3\obj\Debug\CASE3.Properties.Resources.resources
+C:\Users\YusufK\Desktop\C# Başvuru\CASE3\CASE3\obj\Debug\CASE3.csproj.GenerateResource.cache
+C:\Users\YusufK\Desktop\C# Başvuru\CASE3\CASE3\obj\Debug\CASE3.csproj.CoreCompileInputs.cache
+C:\Users\YusufK\Desktop\C# Başvuru\CASE3\CASE3\obj\Debug\CASE3.exe
+C:\Users\YusufK\Desktop\C# Başvuru\CASE3\CASE3\obj\Debug\CASE3.pdb
